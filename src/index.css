@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(
+    180deg,
+    rgb(67, 134, 206) 15%,
+    rgb(26, 59, 95) 40%,
+    rgb(10, 34, 59) 60%,
+    rgb(4, 23, 44) 70%,
+    rgb(6, 20, 34) 80%,
+    rgb(8, 18, 29) 98%
+  );
+  min-height: 1200px;
+  background-size: contain;
+}
