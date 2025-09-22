@@ -178,7 +178,7 @@ npm run build
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhanshut31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhanshut31/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhanshut31/" height="30" width="40" /></a> $~~~$
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhanshut310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhanshut31/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhanshut310/" height="30" width="40" /></a> $~~~$
 <a href="https://www.leetcode.com/shubhanshut31" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhanshut31/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhanshu tiwari" height="30" width="40" /></a>
 </p>
 
