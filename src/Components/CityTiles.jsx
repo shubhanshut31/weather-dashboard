@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import '../app.css';
+import '../App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
