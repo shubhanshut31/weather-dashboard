@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useRef, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
-import '../app.css';
+import '../App.css';
 import Button from 'react-bootstrap/Button';
 import CityTiles from './CityTiles.jsx';
 import Form from 'react-bootstrap/Form';
