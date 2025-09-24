@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import '../app.css';
+import '../App.css';
 import '../index.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import refresh from '../images/refresh.svg';
