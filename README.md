@@ -186,3 +186,5 @@ npm run build
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cb7b0f93-ff2b-4a5c-aff9-d4c751669c7a/deploy-status)](https://app.netlify.com/projects/weather-dashboardapp/deploys)
